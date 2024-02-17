@@ -1,0 +1,12 @@
+com\gymproject\gymrproject\entity\form\AvaliationForm.class
+com\gymproject\gymrproject\entity\Student.class
+com\gymproject\gymrproject\service\RegisterService.class
+com\gymproject\gymrproject\entity\form\StudentFormUpdate.class
+com\gymproject\gymrproject\service\StudentService.class
+com\gymproject\gymrproject\entity\Register.class
+com\gymproject\gymrproject\entity\Avaliation.class
+com\gymproject\gymrproject\GymrprojectApplication.class
+com\gymproject\gymrproject\entity\form\StudentForm.class
+com\gymproject\gymrproject\entity\form\RegisterForm.class
+com\gymproject\gymrproject\entity\form\AvaliationUpdateForm.class
+com\gymproject\gymrproject\service\AvaliationService.class
